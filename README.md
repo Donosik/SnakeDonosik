@@ -1,2 +1,2 @@
 # SnakeDonosik
-My version oabut snake.
+My version about snake.
